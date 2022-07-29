@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import Image from 'next/image'
+import TodoContainer from '../components/TodoContainer/TodoContainer'
 
 export default function Home() {
   return (
@@ -11,6 +11,7 @@ export default function Home() {
 
       <main>
         <h1>Hello World!</h1>
+        <TodoContainer />
       </main>
 
       <footer>
