@@ -1,2 +1,3 @@
-# nextjs-todolist
-Demo project to muck around with Next.js
+# Next.js Todo List Demo App
+
+The stereotypical todo list to learn new technologies application.
